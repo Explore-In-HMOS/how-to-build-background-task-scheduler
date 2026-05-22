@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "weather_title",
+      "value": "Weather in Istanbul"
+    },
+    {
+      "name": "temperature_unit",
+      "value": "°C"
+    },
+    {
+      "name": "last_updated_label",
+      "value": "Last Updated: "
+    },
+    {
+      "name": "background_refresh_label",
+      "value": "Background refresh in every: 2h"
+    },
+    {
+      "name": "no_data",
+      "value": "No data"
+    },
+    {
+      "name": "hot_description",
+      "value": "Hot"
+    },
+    {
+      "name": "mild_description",
+      "value": "Mild"
+    },
+    {
+      "name": "cold_description",
+      "value": "Cold"
+    },
+    {
+      "name": "very_cold_description",
+      "value": "Very Cold"
+    },
+    {
+      "name": "default_time",
+      "value": "00:00:00"
+    },
+    {
+      "name": "no_fetch_yet",
+      "value": "no fetch yet"
+    },
+    {
+      "name": "default_temperature",
+      "value": "--"
+    }
+  ]
+}
