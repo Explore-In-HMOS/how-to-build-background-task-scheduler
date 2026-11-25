@@ -2,7 +2,7 @@
 
 # How to Build Background Task Scheduler
 
-A battery-efficient background weather worker for HarmonyOS Next smart wearables. The app demonstrates how to use `WorkSchedulerExtensionContext` to register periodic background work that fetches weather data, saves it to local preferences, and displays it on the watch face. The codelab teaches how to keep a watch alive and useful between user interactions without draining the battery.
+A battery-efficient background weather worker for HarmonyOS smart wearables. The app demonstrates how to use `WorkSchedulerExtensionContext` to register periodic background work that fetches weather data, saves it to local preferences, and displays it on the watch face. The codelab teaches how to keep a watch alive and useful between user interactions without draining the battery.
 
 # Preview
 
